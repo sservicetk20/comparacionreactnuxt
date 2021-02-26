@@ -7,6 +7,6 @@
 
 - utilizan un DOM virtual
 
-## Similitudes
+## Diferencias
 
 - La mayor diferencia entre React y Vue es cómo se hace la plantilla. En Vue, se usa el HTML tradicional para plantillas. React por su parte recomienda que se escriba todo el código de plantilla en JavaScript usando una “extensión de sintaxis a JavaScript” llamada JSX. JSX es JavaScript con alguna sintaxis de XML. Sin embargo, una vez que te acostumbras a él, se hace mucho más flexible y robusto y mas facil de mantener.
