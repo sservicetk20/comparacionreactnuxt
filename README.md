@@ -14,3 +14,5 @@
 ## Ventajas
 
 - React se lleva la batalla por el desarrollo de herramientas como las React Developer Tools, una extensión para el navegador que, precisamente, extiende el soporte para depurar aplicaciones creadas con React. Quiero aclarar que como las React Developer Tools, existen similares  Vue, pero damos la ventaja a React porque es Facebook mismo quien crea esta herramienta.
+
+- Puntos bonus para React porque en Facebook también desarrollan Jest, una librería para pruebas automatizadas que puedes usar con React.
